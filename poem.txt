@@ -3,6 +3,7 @@ green
 red 
 grey
 yellow 
+recycle!
 unicorn 
 unicorn
 blue
