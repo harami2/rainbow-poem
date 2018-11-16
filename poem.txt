@@ -1,4 +1,4 @@
-this is the file of rainbow poem  and the unicorns added  here
+this is the file of rainbow poem  and the unicorns added  here adding ponies and ponies
 green 
 red 
 grey
@@ -8,4 +8,5 @@ unicorn
 blue
 black 
 pink
+ponies
 white
